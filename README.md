@@ -42,19 +42,12 @@ CONVERTIR A V2 = 0
 
 SOLO TRABAJAMOS CON V1=10 V
 
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t1.png)
-
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t2.png)
 
 CONVERTIR A V1 = 0
 
 SOLO TRABAJAMOS CON V2= 3 V
 
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t3.png)
 
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t4.png)
-
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t5.png)
 
 ## 4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
