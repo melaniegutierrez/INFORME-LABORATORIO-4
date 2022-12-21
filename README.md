@@ -18,23 +18,23 @@ VOLTAJE (A) – CORRIENTE (X)
 
 TOTAL
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/s1.png)
 
 VOLTAJE (A) – CORRIENTE (X)
 
 V2=0
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/s2.png)
 
 VOLTAJE (A) – CORRIENTE (X)
 
 V1=0
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/s3.png)
 
 ### ESQUEMA DEL CIRCUITO
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/c1.png)
 
 ### CALCULOS TEORÍCOS
 
@@ -42,13 +42,19 @@ CONVERTIR A V2 = 0
 
 SOLO TRABAJAMOS CON V1=10 V
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t1.png)
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t2.png)
 
 CONVERTIR A V1 = 0
 
 SOLO TRABAJAMOS CON V2= 3 V
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t3.png)
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t4.png)
+
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/t5.png)
 
 ## 4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
