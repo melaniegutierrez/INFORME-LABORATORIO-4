@@ -48,14 +48,25 @@ CONVERTIR A V2 = 0
 
 SOLO TRABAJAMOS CON V1=10 V
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e1.png)
+
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e2.png)
 
 CONVERTIR A V1 = 0
 
 SOLO TRABAJAMOS CON V2= 3 V
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e3.png)
+
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e4.png)
+
+TRABAJAR CON LAS INTENSIDADES ENCONTRADAS
+
 
 
 ## 4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
+
+
 
 ## 5. VIDEO
 
@@ -64,5 +75,7 @@ LINK:
 ## 6. CONCLUSIONES
 
 - El teorema de superpocision ayuda a simplificar el circuito y trabajar de manera independiente con las fuentes de voltaje y corriente, esto ayuda a facilitar los calculos de corrientes debido a que trabajamos con una sola fuente, un solo sentido de corriente. Con los conocimientos de leyes basicas de Ohm y Kirchhoff se puede analizar todos los elementos presentes y al final solo es necesario una pequeña interpretacion para llegar a los valores. 
+
+- A lo largo del informe se llegó a comprobar el teorema de superposición  donde se establece que la tensión entre los extremos (o corriente a través) de un elemento de un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento debidas a cada una de las fuentes independientes cuando actúa sola.
 
 ## 7. BIBLIOGRAFIA 
