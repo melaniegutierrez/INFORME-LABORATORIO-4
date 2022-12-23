@@ -92,6 +92,6 @@ LINK:
 
 - A lo largo del informe se llegó a comprobar el teorema de superposición  donde se establece que la tensión entre los extremos (o corriente a través) de un elemento de un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento debidas a cada una de las fuentes independientes cuando actúa sola.
 
--Uno de los detalles fundamentales del teorema, es por decirlo su paso N° 1, al colocar una fuente del circuito en 0 V, debido a que en algunas ocasiones se pasa de ser percibido el cable donde se conecta la fuente, (teniendo que conectarse en corto circuito), dejando el terminal al aire, sin conectar, haciendo que el circuito varíe en sus magnitudes, y presentando errores.
+- Uno de los detalles fundamentales del teorema, es por decirlo su paso N° 1, al colocar una fuente del circuito en 0 V, debido a que en algunas ocasiones se pasa de ser percibido el cable donde se conecta la fuente, (teniendo que conectarse en corto circuito), dejando el terminal al aire, sin conectar, haciendo que el circuito varíe en sus magnitudes, y presentando errores.
 
 ## 7. BIBLIOGRAFIA 
