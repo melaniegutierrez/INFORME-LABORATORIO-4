@@ -1,6 +1,6 @@
 # INFORME LABORATORIO 4
 
-## 1. OBJETIVOs
+## 1. OBJETIVOS
 
 Comprobar experimentalmente el Teorema de Superposición mediante simulaciones en la aplicacion tinkercad para comparar con los resultados analiticos el teorema.
 
@@ -91,5 +91,7 @@ LINK:
 - El teorema de superpocision ayuda a simplificar el circuito y trabajar de manera independiente con las fuentes de voltaje y corriente, esto ayuda a facilitar los calculos de corrientes debido a que trabajamos con una sola fuente, un solo sentido de corriente. Con los conocimientos de leyes basicas de Ohm y Kirchhoff se puede analizar todos los elementos presentes y al final solo es necesario una pequeña interpretacion para llegar a los valores. 
 
 - A lo largo del informe se llegó a comprobar el teorema de superposición  donde se establece que la tensión entre los extremos (o corriente a través) de un elemento de un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento debidas a cada una de las fuentes independientes cuando actúa sola.
+
+-Uno de los detalles fundamentales del teorema, es por decirlo su paso N° 1, al colocar una fuente del circuito en 0 V, debido a que en algunas ocasiones se pasa de ser percibido el cable donde se conecta la fuente, (teniendo que conectarse en corto circuito), dejando el terminal al aire, sin conectar, haciendo que el circuito varíe en sus magnitudes, y presentando errores.
 
 ## 7. BIBLIOGRAFIA 
