@@ -48,7 +48,9 @@ CONVERTIR A V2 = 0
 
 SOLO TRABAJAMOS CON V1=10 V
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e8.png)
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e9.png)
 
 CONVERTIR A V1 = 0
 
@@ -66,7 +68,19 @@ COMPROBAR EL TEOREMA DE SUPERPOSICION
 
 ## 4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
+Tabla 4.1. Medición de voltaje aplicando superposición.
 
+| **VOLTAJE TOTAL (VA)** | | **VOLTAJE VA CUANDO V2=0** | | **VOLTAJE VA CUANDO V1=0** | | 
+| :----------: | :----------: |:-------:| :----------: |:----------: |:-------:| 
+|**Calculado**| **Medido** |**Calculado**|**Medido**|**Calculado**|**Medido**|
+| 2.11 V | 2.11 V |3.74 V| 3.74 V |1.63 V| 1.63 V |
+
+Tabla 4.2. Medición de corriente aplicando superposición.
+
+| **CORRIENTE TOTAL (VA)** | | **CORRIENTE IX CUANDO V2=0** | | **CORRIENTE IX CUANDO V1=0** | | 
+| :----------: | :----------: |:-------:| :----------: |:----------: |:-------:| 
+|**Calculado**| **Medido** |**Calculado**|**Medido**|**Calculado**|**Medido**|
+| 6.38 mA | 6.38 mA |0 mA| 0 mA |6.38 mA| 6.38 mA|
 
 ## 5. VIDEO
 
