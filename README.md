@@ -14,7 +14,7 @@ Comprobar experimentalmente el Teorema de Superposición mediante simulaciones e
 
 ## 2. MARCO TEORICO
 
-
+![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-4/blob/main/WhatsApp%20Image%202022-12-14%20at%2021.21.21.jpeg)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
