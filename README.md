@@ -24,13 +24,13 @@ VOLTAJE (A) – CORRIENTE (X)
 
 TOTAL
 
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/s1.png)
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e5.png)
 
 VOLTAJE (A) – CORRIENTE (X)
 
 V2=0
 
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/s2.png)
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e6.png)
 
 VOLTAJE (A) – CORRIENTE (X)
 
@@ -48,9 +48,7 @@ CONVERTIR A V2 = 0
 
 SOLO TRABAJAMOS CON V1=10 V
 
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e1.png)
 
-![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e2.png)
 
 CONVERTIR A V1 = 0
 
@@ -62,7 +60,9 @@ SOLO TRABAJAMOS CON V2= 3 V
 
 TRABAJAR CON LAS INTENSIDADES ENCONTRADAS
 
+COMPROBAR EL TEOREMA DE SUPERPOSICION
 
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e7.png)
 
 ## 4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
