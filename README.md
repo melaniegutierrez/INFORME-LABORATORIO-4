@@ -2,13 +2,19 @@
 
 ## 1. OBJETIVOs
 
-Comprobar experimentalmente el Teorema de Superposición mediante simulaciones en la aplicacion tinkercad para comparar con los resultados analiticos del teorema.
+Comprobar experimentalmente el Teorema de Superposición mediante simulaciones en la aplicacion tinkercad para comparar con los resultados analiticos el teorema.
 
 **OBJETIVOS ESPECIFICOS**
 
-- Determinar el uso del teorema de Superposicion para encontrar corrientes y voltajes en circuitos de varias fuentes.
+- Determinar el uso del teorema de Superposicion para encontrar corrientes y voltajes en circuitos de varias fuentes. 
+
+- Facilitar los calculos para encontrar corriente dentro de circuitos en serie y paralelo con varias fuentes de voltaje y corriente.
+
+- Identificar las corrientes y direccion de las mismas en circuitos mixtos mediante la suma algebraiza de las corrientes con el fin de analizar los componentes del circuito. 
 
 ## 2. MARCO TEORICO
+
+
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
