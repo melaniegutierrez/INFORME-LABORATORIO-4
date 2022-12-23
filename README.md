@@ -68,6 +68,12 @@ COMPROBAR EL TEOREMA DE SUPERPOSICION
 
 ## 4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
+CALCULO DE ERROR
+
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e10.png)
+
+![](https://github.com/melaniegutierrez/CAP-LAB-4/blob/main/e11.png)
+
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
 | **VOLTAJE TOTAL (VA)** | | **VOLTAJE VA CUANDO V2=0** | | **VOLTAJE VA CUANDO V1=0** | | 
@@ -84,7 +90,7 @@ Tabla 4.2. Medición de corriente aplicando superposición.
 
 ## 5. VIDEO
 
-LINK:
+LINK:https://www.youtube.com/watch?v=7yqqpXRSPD4&feature=youtu.be
 
 ## 6. CONCLUSIONES
 
@@ -95,3 +101,7 @@ LINK:
 - Uno de los detalles fundamentales del teorema, es por decirlo su paso N° 1, al colocar una fuente del circuito en 0 V, debido a que en algunas ocasiones se pasa de ser percibido el cable donde se conecta la fuente, (teniendo que conectarse en corto circuito), dejando el terminal al aire, sin conectar, haciendo que el circuito varíe en sus magnitudes, y presentando errores.
 
 ## 7. BIBLIOGRAFIA 
+
+Amann Fernández, E., Arribas Fernández, P., de San Sebastián Soria, J., Lizón Martínez, S., & Maroto Carro, J. C. (2020). Circuitos eléctricos.
+
+Luis, T. F. J. Presentación sobre: Linealidad y superposición.
